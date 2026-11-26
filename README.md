@@ -22,6 +22,21 @@ I'm currently developing my technical skills through independent learning and ha
 ## Projects
 Projects exploring the application of computational and analytical methods to biomedical and healthcare-related data.
 
+### Cell Viability Analysis
+[View Repository](https://github.com/Tshego-Biomed/cell-viability-analysis)
+R-based analysis of HepG2 cell viability data using Crystal Violet and Neutral Red assays.
+
+### Gene Expression Analysis
+[View Repository](https://github.com/Tshego-Biomed/gene-expression-analysis)
+Exploration and analysis of publicly available gene expression data related to liver cancer using bioinformatics approaches.
+
+### Clinical Trial Data Analysis
+[View Repository](https://github.com/Tshego-Biomed/clinical-trial-data-analysis)
+Exploratory analysis of clinical trial data involving data cleaning, statistical summaries and visualisation.
+
+### Clinical Predictive Modelling
+[View Repository](https://github.com/Tshego-Biomed/clinical-predictive-modeling)
+Python-based predictive modelling project exploring machine learning applications in healthcare data.
 
 ## Currently Learning
 - Python for data analysis
