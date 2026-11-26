@@ -31,7 +31,7 @@ R-based analysis of HepG2 cell viability data using Crystal Violet and Neutral R
 Exploration and analysis of publicly available gene expression data related to liver cancer using bioinformatics approaches.
 
 ### Clinical Trial Data Analysis
-[View Repository](https://github.com/Tshego-Biomed/clinical_trial_data_analysis)
+[View Repository](https://github.com/Tshego-Biomed/clinical_trail_data_analysis)
 Exploratory analysis of clinical trial data involving data cleaning, statistical summaries and visualisation.
 
 ### Clinical Predictive Modelling
